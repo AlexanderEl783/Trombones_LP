@@ -88,6 +88,10 @@ li, a {
   flex-direction: column;
 }
 
+.top-div input {
+  padding: 5px;
+}
+
 .top-title {
   font-family: 'Lato', sans-serif;
   text-align: center;
